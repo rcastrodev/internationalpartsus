@@ -1,0 +1,11 @@
+User-agent: *
+Allow: *
+Disallow: /nogooglebot/
+Disallow: https://internationalparts.us/ds/*
+Disallow: http://internationalparts.us/index.p*
+Disallow: http://www.internationalparts.us/producto.p*
+Disallow: http://www.internationalparts.us/productos.p*
+Disallow: http://internationalparts.us/pujol.p*
+
+
+Sitemap: https://internationalparts.us/sitemap.xml
